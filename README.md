@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+🌐 [Personal Website](https://chengqiu.vercel.app/)
+
+💼 [LinkedIn Profile](https://www.linkedin.com/in/cq220/)
+
+🎓 [Google Scholar](https://scholar.google.com/citations?user=K-xsDdYAAAAJ&hl=zh-CN)
 <!--
 **chengq220/chengq220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
